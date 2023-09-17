@@ -1,4 +1,4 @@
 "# CanvasChessGame"  
-"Basic Chess Game "
+"Basic Chess Game"
 "Canvas"
 "JavaScript"
